@@ -174,7 +174,7 @@ models <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1070680
 
 #### Acknowledgement
 
-Last updated on April 27, 2025. (For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
+Last updated on June 15, 2025. (For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
 
 <div style="width: 200px; height: 150px; margin: 0 auto;">
 <!-- Map Widget -->
