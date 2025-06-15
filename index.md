@@ -149,7 +149,7 @@ Full-training-based (training from scratch):
 
 ⌚️ Human Activity Recognition
 - 🏃🏻‍♀️ [UCIHAR](https://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Smartphone-based human activity recognition dataset.
-- 🩼 [UniMiB SHAR](htthttps://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Smartphone-based human activity recognition and fall detection dataset.
+- 🩼 [UniMiB-SHAR](htthttps://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Smartphone-based human activity recognition and fall detection dataset.
 - 📱 [Opportunity](https://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Multiple wearable and environmental sensors for human activity recognition dataset.
 
 🛠 More Datasets
