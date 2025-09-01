@@ -48,6 +48,8 @@ Causality-Inspired:
 *   <span style="color:red;">[ICRA 2022]</span> Causal-based Time Series Domain Generalization for Vehicle Intention Prediction <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812188">[Paper]</a>
 *   <span style="color:red;">[ICML 2023]</span> Neural Stochastic Differential Games for Time-series Analysis <a href="https://proceedings.mlr.press/v202/park23j/park23j.pdf">[Paper]</a> <a href="https://github.com/LGAI-AML/MaSDEs">[Code]</a>
 *   <span style="color:red;">[Sci. Robot. 2023]</span> Robust Flight Navigation Out of Distribution with Liquid Neural Networks <a href="https://cap.csail.mit.edu/sites/default/files/research-pdfs/Robust%20flight%20navigation%20out%20of%20distribution%20with%20liquid%20neural%20networks.pdf">[Paper]</a> <a href="https://zenodo.org/records/7705294">[Code]</a>
+*   <span style="color:red;">[TPAMI 2024]</span> Transferable Time-Series Forecasting Under
+Causal Conditional Shift  <a href="https://ieeexplore.ieee.org/abstract/document/10214679">[Paper]</a> 
 *   <span style="color:red;">[Inf. Sci. 2024]</span> A Causal Representation Learning Based Model for Time Series Prediction under External Interference  <a href="https://www.sciencedirect.com/science/article/abs/pii/S002002552400183X">[Paper]</a> <a href="https://github.com/342869125/CCR_Model_Causaual">[Code]</a>
 
 
