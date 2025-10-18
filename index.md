@@ -57,7 +57,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 
 
 ## Representation learning
-Representation learning enhances generalization by extracting robust and generalizable features. These methods can be categorized into four groups: decoupling-based models, invariance-based models, ensemble-based learning, and large time-series models.
+Representation learning enhances generalization by extracting robust and generalizable features. These methods can be categorized into five groups: decoupling-based methods, invariance-based methods, ensemble-based learning, adaptive mechanism-based methods, and large time-series models.
 
 ### Decoupling-based Methods
 
