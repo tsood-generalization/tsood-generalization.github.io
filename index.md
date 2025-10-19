@@ -171,6 +171,8 @@ Causal Conditional Shift  <a href="https://ieeexplore.ieee.org/abstract/document
 *   <span style="color:red;">[ICLR 2025]</span> Towards Neural Scaling Laws for Time Series Foundation Models <a href="https://openreview.net/pdf?id=uCqxDfLYrB">[Paper]</a> <a href="https://github.com/Qingrenn/TSFM-ScalingLaws">[Code]</a>
 *   <span style="color:red;">[AAAI 2025]</span> ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data <a href="https://arxiv.org/abs/2412.11376">[Paper]</a> <a href="https://github.com/forestsking/chattime">[Code]</a>
 *   <span style="color:red;">[AAAI 2025]</span> CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning <a href="https://arxiv.org/abs/2403.07300">[Paper]</a> <a href="https://github.com/Hank0626/CALF">[Code]</a>
+*   <span style="color:red;">[TKDE 2025]</span> TimeRAF: Retrieval-Augmented Foundation Model for Zero-Shot Time Series Forecasting <a href="https://ieeexplore.ieee.org/abstract/document/11031238">[Paper]</a>
+
 
 ## Time Series Datasets 📊
 
